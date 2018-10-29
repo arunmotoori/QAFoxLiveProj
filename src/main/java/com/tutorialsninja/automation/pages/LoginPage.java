@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.tutorialsninja.automation.base.Base;
 import com.tutorialsninja.automation.framework.Elements;
 
-public class LoginPage {
+public class LoginPage  {
 	
 	public LoginPage() {
 		
